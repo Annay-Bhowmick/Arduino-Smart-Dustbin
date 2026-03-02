@@ -1,0 +1,20 @@
+# Arduino-Based Smart Dustbin 🚮
+
+This project is a smart dustbin that automatically opens its lid when an object is detected nearby.
+
+## Components Used
+- Arduino Nano
+- Ultrasonic Sensor (HC-SR04)
+- Servo Motor
+- Jumper Wires
+
+## Working Principle
+The ultrasonic sensor measures distance.  
+When an object comes within a preset range, the servo motor opens the dustbin lid automatically.
+
+## Applications
+- Touchless waste management
+- Hygiene-focused environments
+
+## Author
+Annay Bhowmick
